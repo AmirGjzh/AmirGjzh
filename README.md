@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
+<h1 align="center">Hi 👋, I'm AmirMohammad</h1>
 
 <h3 align="center">
-Computer Science Student • Algorithm Enthusiast • Problem Solver
+Computer Enginer Student • Algorithm Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
@@ -13,17 +13,13 @@ and building software that actually solves problems.
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Interested in Software Engineering & System Design
+- 🎓 Computer Enginer Student
+- 💻 Interested in Software Engineering
 - 🧠 Strong interest in:
   - Algorithms
   - Data Structures
-  - Competitive Programming
   - Operating Systems
-  - Computer Networks
-  - Cyber Security
-- 🎮 Gamer who occasionally optimizes games more than playing them
-- 🌱 Currently learning advanced graph algorithms and dynamic programming
+  - fullstack 
 
 ---
 
@@ -32,13 +28,13 @@ and building software that actually solves problems.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
 </p>
 
 ### Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,windows,laravel" />
 </p>
 
 ---
