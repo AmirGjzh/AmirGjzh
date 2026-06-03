@@ -35,18 +35,6 @@
 
 ---
 
-## 🎯 Interests
-
-```text
-Algorithms
-Data Structures
-Operating Systems
-Software Engineering
-Full-Stack Development
-```
-
----
-
 ## 📫 Contact
 
 * GitHub: github.com/AmirGjzh
