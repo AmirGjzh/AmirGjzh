@@ -37,6 +37,4 @@
 
 ## 📫 Contact
 
-* GitHub: github.com/AmirGjzh
 * Email: [amir.futurefight@gmail.com](mailto:amir.futurefight@gmail.com)
-* Email: [amirganjizade.business@gmail.com](mailto:amirganjizade.business@gmail.com)
