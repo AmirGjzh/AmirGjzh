@@ -1,8 +1,8 @@
-# Hi 👋, I'm AmirMohammad
+<h1 align="center">Hi 👋, I'm AmirMohammad</h1>
 
-### Computer Engineering Student • Algorithm Enthusiast • Software Developer
+<h3 align="center">Computer Engineering Student • Algorithm Enthusiast • Software Developer</h3>
 
-Passionate about algorithms, system-level programming, and building software that solves real-world problems.
+<p align="center">Passionate about algorithms, system-level programming, and building software that solves real-world problems.</p>
 
 ---
 
@@ -30,29 +30,7 @@ Passionate about algorithms, system-level programming, and building software tha
 ### Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,livewire,git,github,vscode,windows" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=AmirGjzh&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirGjzh&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirGjzh&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi,windows" />
 </p>
 
 ---
