@@ -6,12 +6,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 Computer Engineering Student
 * 💻 Interested in Software Engineering and Full-Stack Development
 * 🧠 Currently focused on:
-
+  
   * Algorithms & Data Structures
   * Operating Systems
   * Full-Stack Web Development
