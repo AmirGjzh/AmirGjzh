@@ -31,7 +31,7 @@ Passionate about algorithms, software engineering, and building useful software.
 
 </p>
 
----
+
 
 ## 💻 Languages
 
@@ -49,7 +49,7 @@ Passionate about algorithms, software engineering, and building useful software.
 
 </p>
 
----
+
 
 ## ⚙️ Technologies & Tools
 
