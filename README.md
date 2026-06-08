@@ -67,4 +67,10 @@ Passionate about algorithms, software engineering, and building useful software.
 
 ## 📫 Contact
 
-📧 [amir.futurefight@gmail.com](mailto:amir.futurefight@gmail.com)
+<a href="mailto:amir.futurefight@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br>
+<a href="https://www.linkedin.com/in/amirmohammad-ganjizade-466673202/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
