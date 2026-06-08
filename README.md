@@ -20,7 +20,7 @@ Passionate about algorithms, software engineering, and building useful software.
 
 ---
 
-## ⚙️ Skills
+### ⚙️ Skills
 
 <p align="left">
 
@@ -33,7 +33,7 @@ Passionate about algorithms, software engineering, and building useful software.
 
 
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="left">
 
@@ -51,7 +51,7 @@ Passionate about algorithms, software engineering, and building useful software.
 
 
 
-## ⚙️ Technologies & Tools
+### ⚙️ Technologies & Tools
 
 <p align="left">
 
@@ -67,10 +67,13 @@ Passionate about algorithms, software engineering, and building useful software.
 
 ## 📫 Contact
 
-<a href="mailto:amir.futurefight@gmail.com">
+<p align=leftt>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=amir.futurefight@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<br>
 <a href="https://www.linkedin.com/in/amirmohammad-ganjizade-466673202/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</p>
