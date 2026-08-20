@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Engineering Student</b> •
-  <b>Algorithm Enthusiast</b> •
+  <b>Algorithm Lover</b> •
   <b>Software Developer</b>
 </p>
 
