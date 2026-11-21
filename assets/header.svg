@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" width="900" height="650" role="img" aria-label="Hi, I’m AmirMohammad. Interested in software engineering and web design, with experience in algorithmic and programming contests. About me: Computer Engineering student at Shahid Beheshti University; currently learning full-stack web development; experience in programming contests; enjoys exploring operating systems and algorithmic problem-solving on the side.">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e6f3ff"/><stop offset="1" stop-color="#e2f9ee"/></linearGradient>
+    <linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="770"><stop offset="0" stop-color="#e6f3ff"/><stop offset="1" stop-color="#e2f9ee"/></linearGradient>
     <linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2b78d6"/><stop offset=".55" stop-color="#0ea5a0"/><stop offset="1" stop-color="#35c98a"/></linearGradient>
     <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b78d6"/><stop offset=".6" stop-color="#0ea5a0"/><stop offset="1" stop-color="#35c98a"/></linearGradient>
     <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2b78d6" stop-opacity="0"/><stop offset=".5" stop-color="#0ea5a0"/><stop offset="1" stop-color="#35c98a" stop-opacity="0"/></linearGradient>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
-    <clipPath id="card"><rect width="900" height="650" rx="26"/></clipPath>
+    <clipPath id="card"><path d="M26 0H874A26 26 0 0 1 900 26V650H0V26A26 26 0 0 1 26 0Z"/></clipPath>
   </defs>
   <g clip-path="url(#card)">
     <rect width="900" height="650" fill="url(#bg)"/>
