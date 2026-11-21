@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="">
+  <path d="M-600,60 C-450.0,44 -150.0,76 0,60 C150.0,44 450.0,76 600,60 C750.0,44 1050.0,76 1200,60 C1350.0,44 1650.0,76 1800,60 L1800,130 L-600,130 Z" fill="#2b78d6" opacity=".18"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="16s" repeatCount="indefinite"/></path>
+  <path d="M-600,80 C-450.0,66 -150.0,94 0,80 C150.0,66 450.0,94 600,80 C750.0,66 1050.0,94 1200,80 C1350.0,66 1650.0,94 1800,80 L1800,130 L-600,130 Z" fill="#0ea5a0" opacity=".22"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/></path>
+  <path d="M-600,100 C-450.0,88 -150.0,112 0,100 C150.0,88 450.0,112 600,100 C750.0,88 1050.0,112 1200,100 C1350.0,88 1650.0,112 1800,100 L1800,130 L-600,130 Z" fill="#35c98a" opacity=".28"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/></path>
+</svg>

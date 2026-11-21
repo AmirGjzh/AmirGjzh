@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm AmirMohammad</h1>
+<div align="center">
+  <img src="assets/header.svg" alt="Hi, I’m AmirMohammad – Computer Engineering student" width="100%">
+</div>
 
 <p align="center">
-  <b>Computer Engineering Student</b> •
-  <b>Software Developer</b> •
-  <b>Algorithm Enthusiast</b>
+  Interested in software engineering and web design,<br>
+  with experience in algorithmic and programming contests.
 </p>
 
 <p align="center">
-Mostly focused on software engineering and full-stack development, with a soft spot for algorithms and competitive programming.
+  <a href="https://amirgjz.ir"><img src="assets/btn-portfolio.svg" height="48" alt="Portfolio"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amirmohammad-ganjizade-466673202"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:amir.futurefight@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
-* 🎓 Computer Engineering student at Shahid Beheshti University
-* 💻 Currently learning Full-Stack Web Development
-* 🔍 Enjoy exploring Operating Systems and algorithmic problem-solving on the side
+- 🎓 Computer Engineering student at Shahid Beheshti University
+- 💻 Currently learning full-stack web development
+- 🏆 Experience in programming contests: ICPC Asia Tehran Regional (8th in 2025, 11th in 2024) and Tech Olympics 2025 (algorithm track finalist)
+- 🔍 Enjoy exploring operating systems and algorithmic problem-solving on the side
 
----
+## 🚀 Featured projects
 
-### 🛠️ Tech Stack
+| Project | What it is |
+| --- | --- |
+| [**Planner**](https://github.com/AmirGjzh/Planner) | A bilingual website for planning and managing tasks and plans, with a Jalali calendar, categories and performance reports |
+| [**Starvel**](https://github.com/AmirGjzh/Starvel) | A portable development environment for Laravel developers on Windows |
+| [**XOShift Game AI**](https://github.com/AmirGjzh/XOShift-Game) | A two-player board game with a competitive Minimax AI |
+| [**Text Compressor**](https://github.com/AmirGjzh/Text-Compressor) | Text file compression in C with Huffman coding, up to ~40% smaller files |
 
-<p align="center">
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</p>
+<div align="center">
+  <img src="assets/footer.svg" alt="" width="100%">
+</div>
